@@ -1,0 +1,60 @@
+﻿Build started 05.12.2014 19:19:21.
+     1>Project "C:\Users\BPC\Documents\Visual Studio 2010\Projects\Schach\Schach\Schach.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Schach.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\SFML 2.1\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Manager.cpp
+         Manager.cpp
+     1>Manager.cpp(43): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(43): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(50): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(50): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(57): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(57): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(67): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(67): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(69): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(69): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(80): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(80): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(82): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(82): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(93): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(93): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(95): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(95): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(106): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(106): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(108): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(108): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(119): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(119): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(121): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(121): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(132): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(132): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(134): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(134): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(145): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(145): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(147): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(147): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>Manager.cpp(177): warning C4244: '=': Konvertierung von 'sf::Int32' in 'float', möglicher Datenverlust
+     1>Manager.cpp(222): warning C4244: '=': Konvertierung von 'sf::Int32' in 'float', möglicher Datenverlust
+     1>Manager.cpp(439): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+     1>Manager.cpp(439): warning C4244: 'Argument': Konvertierung von 'int' in 'float', möglicher Datenverlust
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\BPC\Documents\Visual Studio 2010\Projects\Schach\Release\Schach.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\SFML 2.1\lib" "sfml-audio.lib" "sfml-window.lib" "sfml-graphics.lib" "sfml-network.lib" "sfml-system.lib" "sfml-main.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Schach.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\BPC\Documents\Visual Studio 2010\Projects\Schach\Release\Schach.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\BPC\Documents\Visual Studio 2010\Projects\Schach\Release\Schach.lib" /MACHINE:X86 Release\Manager.obj
+         Code wird generiert.
+         Codegenerierung ist abgeschlossen.
+         Schach.vcxproj -> C:\Users\BPC\Documents\Visual Studio 2010\Projects\Schach\Release\Schach.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\BPC\Documents\Visual Studio 2010\Projects\Schach\Release\Schach.exe;#1" /manifest Release\Schach.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Schach.unsuccessfulbuild".
+         Touching "Release\Schach.lastbuildstate".
+     1>Done Building Project "C:\Users\BPC\Documents\Visual Studio 2010\Projects\Schach\Schach\Schach.vcxproj" (build target(s)).
+
+Das Erstellen war erfolgreich.
+
+Time Elapsed 00:00:02.27
